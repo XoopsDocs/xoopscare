@@ -29,3 +29,7 @@ Sometimes you're getting comments written by spammers, advertising their product
 *Figure 8: Sessions*
 
 Define how often would you like to clear the Sessions table
+
+If you need help, click on the Help tab, and there is some extra information:
+
+![](../assets/help.png)
