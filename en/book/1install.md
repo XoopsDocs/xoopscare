@@ -30,7 +30,7 @@ Updating is easy enough, just replace the module with the new one. This pertains
 
 Go to the module preferences and setup things to run as you need them to. If you set a particular function to 0 (zero) days, then it will be disabled. To make this work automatically, you will need to do two things:
 
-1. create a cron job that runs XOOPS_ROOT/modules/xoopscare/cron.php?password= *mypassword *
+1. create a cron job that runs XOOPS_ROOT/modules/xoopscare/cron.php?password= *mypassword*
 2. put *mypassword* in the module preferences
 
 Alternatively, if you can't setup a cron job, then you can instead implement the Maintenance block on a page (maybe your home page) instead to be your cron job. 
