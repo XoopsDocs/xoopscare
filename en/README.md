@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This is a module module with some basic maintenance tasks for the Website Administrator, to accomplish them easily and automatically.
+This is a module with some basic maintenance tasks for the Website Administrator, to accomplish them easily and automatically.
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the XoopsCare Module (Admin side)*
