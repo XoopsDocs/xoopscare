@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
-# Module XXX
+# Module XoopsCare
 #### for XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
@@ -12,10 +12,10 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module provides some basic maintenance tasks for the Website Administrator 
 
 ![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the XoopsCare Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
