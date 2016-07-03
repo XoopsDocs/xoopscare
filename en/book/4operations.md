@@ -3,7 +3,7 @@
 ![](../assets/imgActions001.png)
 *Figure 3: General Preferences*
 
-You can set here the main options for the module, especially the Cron
+You can set here the main options for the module, especially for the Cron
 
 ![](../assets/imgActions002.png)
 *Figure 4: Queries*
