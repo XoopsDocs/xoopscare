@@ -30,7 +30,6 @@ XOOPS uses a relational database \(currently MySQL\) to store data required for 
 
 Modules can be installed, uninstalled, and activated or deactivated with a click using the XOOPS module administration system.
 
-
 **Personalization**
 
 Registered users can edit their profiles, select site themes, upload custom avatars, and much more!
